@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @ashegde
-- 👀 I’m interested in uncertainty quantification, control, and decision-making.
+- 👀 I’m interested in uncertainty quantification and its utility for predictive modeling, control, and decision-making.
 - 🌱 I’m currently a postdoc working on Bayesian UQ as applied to atomistic simulation.
 
 <!---
