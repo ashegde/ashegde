@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @ashegde
-- 👀 I’m interested in data, models, and uncertainty in the context of predictive modeling, decision-making, and control.
-- 🌱 I’m currently a postdoc working on Bayesian UQ as applied to atomistic simulation.
+- 👋 hello, I’m @ashegde
+- 👀 interested in data, models, and uncertainty for predictive modeling, decision-making, and control.
+- 🌱 postdoc working on Bayesian UQ for fitting interatomic potentials.
 
 <!---
 ashegde/ashegde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
