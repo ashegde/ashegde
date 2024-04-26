@@ -1,6 +1,6 @@
 - 👋 hello, I’m @ashegde
-- 👀 interested in data, models, and uncertainty for predictive modeling and decision-making.
-- 🌱 postdoc currently working on reduced order modeling and Bayesian uncertainty quantification.
+- 👀 interested in data, models, uncertainty, and robustness.
+- 🌱 postdoc working on Bayesian uncertainty quantification and ML-based surrogate modeling.
 
 <!---
 ashegde/ashegde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
