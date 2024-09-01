@@ -1,6 +1,6 @@
-- 👋 hello, I’m @ashegde
-- 👀 interested in data, models, and uncertainty.
-- 🌱 former postdoc working on Bayesian uncertainty quantification and ML-based surrogate modeling.
+- 👋 hello, I’m @ashegde. 
+- 👀 interested in data, models, and uncertainty -- especially in the context of decision-making and control.
+- 🌱 previous postdoctoral work in Bayesian uncertainty quantification and ML-based surrogate modeling.
 
 <!---
 ashegde/ashegde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
