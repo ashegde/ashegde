@@ -1,5 +1,5 @@
 - 👋 hello, I’m @ashegde. 
-- 👀 interested in data, models, and uncertainty -- especially in the context of decision-making and control.
+- 👀 interested in data, models, and uncertainty -- especially in the context of computational science and control.
 - 🌱 previous postdoctoral work in Bayesian uncertainty quantification and ML-based surrogate modeling.
 
 <!---
