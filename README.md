@@ -1,5 +1,5 @@
 - 👋 hello, I’m @ashegde. 
-- 👀 interested in data, models, and uncertainty -- especially in the context of building robust and efficient computational systems that bridge the sim2real gap.
+- 👀 interested in data, models, and uncertainty -- particularly for building robust and efficient computational systems that bridge the sim2real gap.
 - 🌱 previous postdoctoral work in Bayesian uncertainty quantification and ML-based surrogate modeling, with applications to molecular dynamics and PDE solvers.
 - 📓 academic background in control theory. 
 
