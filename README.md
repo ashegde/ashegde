@@ -1,5 +1,5 @@
 - 👋 hello, I’m @ashegde. 
-- 👀 interested in data, models, and uncertainty -- for building robust and efficient prediction systems.
+- 👀 interested in data, models, and uncertainty in the context of building robust and efficient prediction systems.
   - key question: can uncertainty quantification (UQ) help us bridge the sim2real gap?
 - 🌱 postdoctoral work in Bayesian UQ and ML-based surrogate modeling, with application to molecular dynamics and PDE solvers.
 - 📓 academic background in control theory, dissertation work on convex optimization and UQ.  
