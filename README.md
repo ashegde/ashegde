@@ -1,5 +1,5 @@
 - 👋 hello, I’m @ashegde. 
-- 👀 interested in {data, models, uncertainty} for {predictive modeling, online/sequential/robust decision-making, autonomy} in science and engineering.
+- 👀 interested in {data, models, uncertainty} for {predictive modeling, uncertainty quantification, online + robust decision-making} in science and engineering.
 - 🌱 postdoctoral work in Bayesian UQ and ML-based surrogate modeling, with application to molecular dynamics, constitutive modeling, and phase field simulation.
 - 📓 academic background in control theory, dissertation work on convex optimization and UQ.  
 
